@@ -1,0 +1,9 @@
+
+Starting conflict detection program on schedules/schedule1.json
+Checking conflict between route2 and route1
+No conflict between route2 and route1
+Checking conflict between route3 and route1
+No conflict between route3 and route1
+Checking conflict between route3 and route2
+No conflict between route3 and route2
+Conflict detection complete: 0 conflicts found
